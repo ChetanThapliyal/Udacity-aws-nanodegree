@@ -1,0 +1,14 @@
+uv
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipywidgets
+xgboost
+lightgbm
+tqdm
+scipy
+statsmodels
+tensorflow
