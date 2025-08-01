@@ -1,4 +1,4 @@
-[![Credly Badge: AWS Educate Machine Learning Foundations](/src/img/aws-educate-machine-learning-foundations.png)
+<a href="https://www.credly.com/badges/24808b39-126b-49ed-b7bc-d8b473e93e09/public_url"><img src="src/img/aws-educate-machine-learning-foundations.png" alt="AWS Educate Machine Learning Foundations" width="100"/></a>
 
 # AWS Udacity Nanodegree
 
